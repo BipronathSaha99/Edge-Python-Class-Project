@@ -66,7 +66,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 
 3. Run the Python script:
    ```bash
-   python iris_classification.py
+   python main.py
    ```
 
 4. View the visualizations and model evaluation results in the output.
